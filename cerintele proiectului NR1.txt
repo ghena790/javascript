@@ -1,0 +1,19 @@
+1. Fara utilizarea unui framework(JavaScript nativ)
+2. Utilizarea POO
+3. Designul aplicatiei simplu.
+4. VA fi doar un singur jucator;
+5. Interfata  va fi:
+		a)teren de joc
+		b)Levels(cu cit mai mare levelul cu atit viteza se mareste)
+		c)Scoru (se reiinoieste cind trece mai sus si se salveaza)
+		d)Linii(nr de linii  cit au fost strinse) 
+			a)1 linie 10 baluri
+			b)2 linii o data 30 de baluri
+			c)3 linii o data 80 de baluri
+			d)4 linii o dat 120 de baluri
+		e)Next figure(v-a arata urmatoare figura)
+		f)Figurile v-or aparea random
+6. Vor fi 7 figuri
+7. Deplasarea figurii v-a fi cu ajutorul tastierei
+8. Cind joaca v-a fi finisata v-a aparea butonul "Restart game"
+9. Sub semnul intrbarii cu muzica( de adaugat un buton care v-a deconecta sau pune in cintec)
